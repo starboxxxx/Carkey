@@ -46,7 +46,7 @@ Carkey 서비스는 사용자가 스크래치된 차량 사진을 찍어서 업�
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringBoot.png?raw=true" width="80">
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringSecurity.png?raw=true" width="80">
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/SpringDataJPA.png?raw=true" width="80">
-<img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Maria.png?raw=true" width="80">
+<img src="https://github.com/user-attachments/assets/e9f69560-3ca9-4b30-9ade-f1b14d89f966?raw=true" width="80">
 </div>
 
 <br />
