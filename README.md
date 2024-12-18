@@ -51,12 +51,6 @@ Carkey 서비스는 사용자가 스크래치된 차량 사진을 찍어서 업�
 
 <br />
 
-## 🛠️ 프로젝트 아키텍쳐
-![no-image](https://user-images.githubusercontent.com/80824750/208294567-738dd273-e137-4bbf-8307-aff64258fe03.png)
-
-
-<br />
-
 ## 🤔 기술적 이슈와 해결 과정
 - Stream 써야할까?
     - [Stream API에 대하여](https://velog.io/@yewo2nn16/Java-Stream-API)
