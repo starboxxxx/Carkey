@@ -3,7 +3,7 @@
 <!-- logo -->
 <img src="https://github.com/user-attachments/assets/7e28fe78-4af7-441f-b00e-77d1bad26b2e" width="400"/>
 
-### Back-end Git Reamd.me Template ✅
+### AI 이미지 분석 기술을 이용한 차량 파손 금액 측정 서비스✅
 
 [<img src="https://img.shields.io/badge/-readme.md-important?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/-tech blog-blue?style=flat&logo=google-chrome&logoColor=white" />]() [<img src="https://img.shields.io/badge/release-v0.0.0-yellow?style=flat&logo=google-chrome&logoColor=white" />]() 
 <br/> [<img src="https://img.shields.io/badge/프로젝트 기간-2022.12.10~2022.12.19-green?style=flat&logo=&logoColor=white" />]()
