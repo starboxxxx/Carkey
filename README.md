@@ -38,8 +38,12 @@ Carkey 서비스는 사용자가 스크래치된 차량 사진을 찍어서 업�
 
 <br />
 
-## ⚙ 기술 스택
-> skills 폴더에 있는 아이콘을 이용할 수 있습니다.
+## ⚙ ERD
+<img src="https://github.com/user-attachments/assets/fa48db99-b909-4f9d-8335-2a5f59336667" width="80">
+
+
+
+
 ### Back-end
 <div>
 <img src="https://github.com/yewon-Noh/readme-template/blob/main/skills/Java.png?raw=true" width="80">
