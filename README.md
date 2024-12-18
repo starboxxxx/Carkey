@@ -39,8 +39,9 @@ Carkey 서비스는 사용자가 스크래치된 차량 사진을 찍어서 업�
 <br />
 
 ## ⚙ ERD
-<img src="https://github.com/user-attachments/assets/fa48db99-b909-4f9d-8335-2a5f59336667" width="80">
-
+<div>
+<img src="https://github.com/user-attachments/assets/fa48db99-b909-4f9d-8335-2a5f59336667" width="1000">
+</div>
 
 
 
