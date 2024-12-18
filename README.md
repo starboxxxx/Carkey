@@ -20,7 +20,7 @@ Carkey 서비스는 사용자가 스크래치된 차량 사진을 찍어서 업�
 ### 화면 구성
 |HOME|
 |:---:|
-|<img src="https://github.com/user-attachments/assets/7e28fe78-4af7-441f-b00e-77d1bad26b2e" width="200" height="300"/>|
+|<img src="https://github.com/user-attachments/assets/2aa7afca-747f-4167-8845-cb8fcfe91790" width="200" height="300"/>|
 
 <br>
 
