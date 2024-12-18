@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- logo -->
-<img src="![KakaoTalk_20240602_180847123](https://github.com/user-attachments/assets/7e28fe78-4af7-441f-b00e-77d1bad26b2e)" width="400"/>
+<img src="https://github.com/user-attachments/assets/7e28fe78-4af7-441f-b00e-77d1bad26b2e" width="400"/>
 
 ### Back-end Git Reamd.me Template ✅
 
