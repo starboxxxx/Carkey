@@ -22,7 +22,10 @@ Carkey 서비스는 사용자가 스크래치된 차량 사진을 찍어서 업�
 |:---:|
 |<img src="https://github.com/user-attachments/assets/7e28fe78-4af7-441f-b00e-77d1bad26b2e" width="400"/>|
 
+<br>
+
 |Screen #2|
+|:---:|
 |<img src="https://user-images.githubusercontent.com/80824750/208456234-fb5fe434-aa65-4d7a-b955-89098d5bbe0b.gif" width="400"/>|
 
 
