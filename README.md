@@ -24,7 +24,7 @@ Carkey 서비스는 사용자가 스크래치된 차량 사진을 찍어서 업�
 
 <br>
 
-|게시판|
+|게시판||수리비 분석|
 |:---:|:---:|
 |<img src="https://github.com/user-attachments/assets/a3ac81c3-7d15-44de-a366-325bc975cbc9" width="200" height="300"/>|<img src="https://github.com/user-attachments/assets/2ba651bc-37d4-46aa-8c2a-f9d3e8bc7750" width="200" height="300"/>|
 
