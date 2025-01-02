@@ -30,12 +30,6 @@ Carkey 서비스는 사용자가 스크래치된 차량 사진을 찍어서 업�
 
 <br />
 
-## 🗂️ APIs
-작성한 API는 아래에서 확인할 수 있습니다.
-
-👉🏻 [API 바로보기](/backend/APIs.md)
-
-
 <br />
 
 ## ⚙ ERD
@@ -66,9 +60,3 @@ Carkey 서비스는 사용자가 스크래치된 차량 사진을 찍어서 업�
     - [서버 배포하기-2](https://velog.io/@yewo2nn16/SpringBoot-서버-배포-인텔리제이에서-jar-파일-빌드해서-배포하기)
 
 <br />
-
-## 💁‍♂️ 프로젝트 팀원
-|Backend|Frontend|
-|:---:|:---:|
-| ![](https://github.com/yewon-Noh.png?size=120) | ![](https://github.com/SeongHo-C.png?size=120) |
-|[노예원](https://github.com/yewon-Noh)|[이성호](https://github.com/SeongHo-C)|
