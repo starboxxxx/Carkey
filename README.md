@@ -17,7 +17,7 @@ Carkey 서비스는 사용자가 스크래치된 차량 사진을 찍어서 업�
 또한, 사용자들간의 차량 수리비 정보를 서로 공유할 수 있는 커뮤니티 기능 또한 제공합니다.
 
 
-### 화면 구성
+### 대표 기능
 |HOME|
 |:---:|
 |<img src="https://github.com/user-attachments/assets/2aa7afca-747f-4167-8845-cb8fcfe91790" width="200" height="300"/>|
